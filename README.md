@@ -1,3 +1,4 @@
+Notice that we are writing the description and tutorials to our source code and other related materials, in order to foster future research in this dynamic vSLAM line. They will be found in our repository in Github https://github.com/SunIMLab/TL-REE, before publication. 
 # TL-REE
 TL-REE is a vSLAM navigation system that is robust in dynamic scenarios for RGB-D configurations. Having a motion saliency map of the scene allows eliminating the dynamic background content that has been occluded by moving objects.
 # Abstract
